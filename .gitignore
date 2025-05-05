@@ -47,7 +47,7 @@ coverage.xml
 *,cover
 
 # Translations
-*.mo
+#*.mo
 
 # Django stuff:
 *.log
@@ -60,4 +60,3 @@ target/
 
 # Vim swapfiles
 .*.sw?
-
