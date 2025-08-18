@@ -237,7 +237,7 @@ msgstr "Bejelentkezés a felhasználói fiókba"
 #: invenio_accounts/templates/semantic-ui/invenio_accounts/login_user.html:42
 #, python-format
 msgid "New to %(sitename)s?"
-msgstr "Új a(z) %(sitename)s oldalon?"
+msgstr "Nincs SZTE Egyetemi Azonosítója?"
 
 #: invenio_accounts/templates/invenio_accounts/login_user.html:45
 #: invenio_accounts/templates/semantic-ui/invenio_accounts/login_user.html:53
@@ -344,3 +344,6 @@ msgstr "A(z) %(sid_s)s munkamenetet sikeresen eltávolítottuk."
 #, python-format
 msgid "Unable to remove the session %(sid_s)s."
 msgstr "Nem sikerült eltávolítani a(z) %(sid_s)s munkamenetet."
+
+msgid "Registrate"
+msgstr "Regisztráljon"
