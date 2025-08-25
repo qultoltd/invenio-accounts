@@ -40,7 +40,7 @@
       {%- if security.registerable %}
         <p class="ui primary segment padded text-muted">
             {% trans sitename=config.ACCOUNTS_SITENAME %}New to {{ sitename }}?{% endtrans %}
-            <a href="{{ url_for_security('register', next=request.args.get('next')) }}">{{ _('Sign up') }}</a>
+            <a href="{{ url_for_security('register', next=request.args.get('next')) }}">{{ _('Register') }}</a>
         </p>
       {%- endif %}
     {%- endblock registerable %}
