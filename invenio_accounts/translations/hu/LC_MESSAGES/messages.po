@@ -345,5 +345,5 @@ msgstr "A(z) %(sid_s)s munkamenetet sikeresen eltávolítottuk."
 msgid "Unable to remove the session %(sid_s)s."
 msgstr "Nem sikerült eltávolítani a(z) %(sid_s)s munkamenetet."
 
-msgid "Registrate"
+msgid "Register"
 msgstr "Regisztráljon"
